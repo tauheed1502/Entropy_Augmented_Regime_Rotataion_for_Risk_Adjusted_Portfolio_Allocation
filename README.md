@@ -1,0 +1,1 @@
+# Entropy_Augmented_Regime_Rotataion_for_Risk_Adjusted_Portfolio_Allocation
